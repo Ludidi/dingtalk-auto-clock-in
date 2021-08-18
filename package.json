@@ -1,0 +1,12 @@
+{
+  "name": "backer-clock-in",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "serve": "npx node index.js"
+  },
+  "devDependencies": {
+    "node-schedule": "^2.0.0"
+  }
+}
